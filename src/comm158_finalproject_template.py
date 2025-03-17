@@ -26,6 +26,9 @@ Original file is located at
 # Load the two CSV files from the data folder into a single Pandas DataFrame.
 # Make sure to add a new column to keep track of the candidate name associated with each tweet.
 
+"Hello World"
+print("Hello World")
+
 # 1.2 Sentiment Analysis
 # We will use the NRC Emotion Lexicon, a lexicon that categorizes words based on emotions and sentiment.
 
